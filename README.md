@@ -1,4 +1,4 @@
-# RellenarPDFPython
+# RellenarPDF Python
 Programa para facilitar el rellenado de PDFs en Python, usando biblioteca pdfrw. Ejemplo con documento GVA.
 
 Este programa es un pequeño prototipo adaptable.
